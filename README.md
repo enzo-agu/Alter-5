@@ -17,6 +17,12 @@
 - Luego, se debe correr el comando `npm run dev` para el despliegue del proyecto.
 
 
+## Credenciales de logueo.
+
+- username: 'michaelw'
+- password: 'michaelwpass'
+
+
 ## Dependencias instaladas.
 
 `axios`
