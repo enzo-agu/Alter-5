@@ -15,7 +15,7 @@ const FirstTenProducts = () => {
         gap: "30px",
       }}
     >
-      {originalProducts.slice(0,9).map((item) => (
+      {originalProducts.slice(0,10).map((item) => (
         <div key={item.id}>
           <Card>
             <Card.Img src={item.thumbnail} />
